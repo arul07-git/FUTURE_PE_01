@@ -1,3 +1,6 @@
+<img width="1918" height="1154" alt="image" src="https://github.com/user-attachments/assets/ddafbde0-e7e2-4493-bbf0-2493571e75bd" />
+
+
 [SYSTEM ROLE]
 You are an expert full-stack UI/UX developer and conversion copywriter 
 specializing in local business websites. Your goal is to build a 
