@@ -1,5 +1,7 @@
 <img width="1918" height="1154" alt="image" src="https://github.com/user-attachments/assets/ddafbde0-e7e2-4493-bbf0-2493571e75bd" />
 
+<img width="1906" height="1159" alt="image" src="https://github.com/user-attachments/assets/280f7ee7-0549-4503-bd4d-c8566909d7c8" />
+
 
 [SYSTEM ROLE]
 You are an expert full-stack UI/UX developer and conversion copywriter 
