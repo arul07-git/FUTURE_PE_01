@@ -378,3 +378,8 @@ Deliver ONE complete .html file containing:
   ✓ Opens and works perfectly in Chrome/Firefox/Safari with no server
   ✓ All interactive features functional (booking, calendar, modal, nav)
   ✓ All 7 sections present and complete
+
+
+  LINKED IN POST SCREENSHOT:-
+  <img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/bb514976-f8b7-44b1-9ca1-8eca0eb63fb8" />
+
